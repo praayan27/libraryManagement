@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9399cb89-f5c1-4f4f-97a1-8b049c392e78/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/onelibrary",
+    "appService.deploySubpath": "."
+}
